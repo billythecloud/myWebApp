@@ -8,26 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\przem\\.nuget\\packages\\": {}
+    "C:\\Users\\PrzemyslawLubczanski\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\przem\\myWebApp\\myWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\PrzemyslawLubczanski\\eShopOnWeb\\myWebApp.csproj",
       "projectName": "myWebApp",
-      "projectPath": "C:\\Users\\przem\\myWebApp\\myWebApp.csproj",
-      "packagesPath": "C:\\Users\\przem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\przem\\myWebApp\\obj\\",
+      "projectPath": "C:\\Users\\PrzemyslawLubczanski\\eShopOnWeb\\myWebApp.csproj",
+      "packagesPath": "C:\\Users\\PrzemyslawLubczanski\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PrzemyslawLubczanski\\eShopOnWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\przem\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\PrzemyslawLubczanski\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
-      "sources": {
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
